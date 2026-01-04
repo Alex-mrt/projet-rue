@@ -1,6 +1,6 @@
 projet-rue
 
-Ce projet est une application Python en terminal/graphique réalisée avec l’IDE **Thonny**.  
+Ce projet est une application codé en Python réalisée avec l’IDE Thonny.  
 Il a été réalisé à deux durant mon année de première en spécialité NSI.
 
 
